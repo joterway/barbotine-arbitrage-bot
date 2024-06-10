@@ -255,4 +255,4 @@ with open('balance.txt', 'r+') as balance_file:
 
 total_session_profit_usd = total_usdt_balance-old_balance
 printandtelegram(f"{Style.DIM}{get_time()}{Style.RESET_ALL} Session with {currentPair} finished.\n{Style.DIM}{get_time()}{Style.RESET_ALL} Total profit: {total_session_profit_usd} {endPair}")
- import for or
+ import for or import
