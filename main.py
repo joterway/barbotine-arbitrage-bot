@@ -48,4 +48,4 @@ while True:
         print(f"Mode input is incorrect.")
         sys.exit(1)
     i+=1
- for import with import with
+ for import with import with not
