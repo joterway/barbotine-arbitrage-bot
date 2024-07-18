@@ -102,4 +102,4 @@ def get_balance_usdt(ex_list_str:list):
         balances = ex[excha].fetchBalance()
         usdt_balance+=balances['USDT']['total']
     return float(usdt_balance)
- and import if
+ and import if import
